@@ -80,23 +80,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Li Zhengdao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "First year Phd student."
+  location         : "Shenzhen, China"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "not yet"
+  email            : "mygithubname at link.cuhk.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Li_Zhengdao"
+  uri              : "https://zhengdaoli.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/zhengdaoli"
   google_plus      :
   keybase          :
   instagram        :
