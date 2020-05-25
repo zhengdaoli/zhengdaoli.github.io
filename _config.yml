@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Li Zhengdao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Li Zhengdao"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ author:
   location         : "Shenzhen, China"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "not yet"
-  email            : "mygithubname at link.cuhk.edu.cn"
+  email            : "mygithubname at link dot myUniversityName dot edu dot cn"
   researchgate     : "https://www.researchgate.net/profile/Li_Zhengdao"
   uri              : "https://zhengdaoli.github.io/"
   bitbucket        :
