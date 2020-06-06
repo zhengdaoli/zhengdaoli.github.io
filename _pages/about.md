@@ -13,7 +13,7 @@ This website is developing now. I am moving my blogs from other sites to here, a
 About me
 ======
 
-* Jan, 2020 ~ now: [CUHKSZ](https://www.cuhk.edu.cn/), first year Phd student.
+* Jan, 2020 ~ now: [CUHKSZ](https://www.cuhk.edu.cn/), first-year Ph.D student.
 * Nov, 2016 ~ Nov, 2019: [Baidu](https://www.baidu.com/), senior Cloud Engineer.
 * Sep, 2010 ~ Apr, 2017: Bachelor and Master degrees from [BUPT](https://www.bupt.edu.cn/)
 
