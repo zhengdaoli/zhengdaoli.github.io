@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Li Zhengdao"
   avatar           : "profile.png"
-  bio              : "First-year Ph.D student."
+  bio              : "Second-year Ph.D student."
   location         : "Shenzhen, China"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "not yet"
+  github : "https://github.com/zhengdaoli"
+  googlescholar    : "https://scholar.google.com/citations?user=Ib11UKMAAAAJ&hl=en"
   email            : "mygithubname at link dot myUniversityName dot edu dot cn"
   researchgate     : "https://www.researchgate.net/profile/Li_Zhengdao"
   uri              : "https://zhengdaoli.github.io/"
