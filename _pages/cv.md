@@ -3,9 +3,9 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+# yezi cv: 'http://zhengdaoli.github.io/files/ye_cv.pdf'
 redirect_from:
   - /resume
-yezi cv: 'http://zhengdaoli.github.io/files/ye_cv.pdf'
 ---
 
 {% include base_path %}
