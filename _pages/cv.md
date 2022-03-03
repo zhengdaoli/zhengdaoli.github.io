@@ -11,30 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Information Engineering, BUPT, 2014.
+* M.S. Information and Telecommunication Engineering, BUPT, 2017.
+* Ph.D. candidate, CUHK(Shenzhen), 2020 ~ present.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017 - 2020: Senior Big Data and Cloud Computing engineer
+  * Baidu.inc, Beijing
 
 Publications
 ======
@@ -50,10 +34,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  TA, CSC1002,CSC4160,CIE6129.
   
-Service and leadership
+Co-Author CV
 ======
-* Currently signed in to 43 different slack teams
+* [yezi](http://zhengdaoli.github.io/files/paper1.pdf)
