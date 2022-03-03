@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. candidate"
   location         : "Shenzhen, China"
-  github : "https://github.com/zhengdaoli"
+  github           : "zhengdaoli"
   googlescholar    : "https://scholar.google.com/citations?user=Ib11UKMAAAAJ&hl=en"
   email            : "mygithubname at link dot myUniversityName dot edu dot cn"
   researchgate     : "https://www.researchgate.net/profile/Li_Zhengdao"
@@ -95,7 +95,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhengdaoli"
   google_plus      :
   keybase          :
   instagram        :
