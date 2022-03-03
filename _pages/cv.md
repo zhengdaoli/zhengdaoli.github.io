@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+yezi cv: 'http://zhengdaoli.github.io/files/ye_cv.pdf'
 ---
 
 {% include base_path %}
