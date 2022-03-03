@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Li Zhengdao"
   avatar           : "profile.png"
-  bio              : "Second-year Ph.D student."
+  bio              : "Ph.D. candidate"
   location         : "Shenzhen, China"
   github : "https://github.com/zhengdaoli"
   googlescholar    : "https://scholar.google.com/citations?user=Ib11UKMAAAAJ&hl=en"
   email            : "mygithubname at link dot myUniversityName dot edu dot cn"
   researchgate     : "https://www.researchgate.net/profile/Li_Zhengdao"
   uri              : "https://zhengdaoli.github.io/"
-  bitbucket        :
+  tech_blog        : "https://blog.csdn.net/bagba"
   codepen          :
   dribbble         :
   flickr           :
