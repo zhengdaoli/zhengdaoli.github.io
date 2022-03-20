@@ -10,11 +10,14 @@ redirect_from:
 
 This website is developing now. I am moving my blogs from other sites to here, and building my profile.
 
-** My zhihu **: [道哥真的多](https://www.zhihu.com/people/bagba)
 
-** My CSDN **: [Bagba](https://blog.csdn.net/bagba)
+**My zhihu**: [道哥真的多](https://www.zhihu.com/people/bagba)
 
-** My WeChat_blog **: 道哥的道
+**My CSDN**: [Bagba](https://blog.csdn.net/bagba)
+
+**My WeChat_blog**: 道哥的道
+
+
 
 About me
 
