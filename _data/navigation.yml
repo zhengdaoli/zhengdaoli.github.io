@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Yezi Liu"
+    url: /liuyezi/
     
   - title: "Guide"
     url: /markdown/
