@@ -7,9 +7,9 @@ author_profile: false
 #   - /resume
 ---
 
-
+<!-- 
 # 个人简历:
-* [CV](http://zhengdaoli.github.io/files/liuyezi/ye_cv.pdf)
+* [CV](http://zhengdaoli.github.io/files/liuyezi/ye_cv.pdf) -->
 
 
 
