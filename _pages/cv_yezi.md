@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: ""
 permalink: /liuyezi/
 author_profile: false
