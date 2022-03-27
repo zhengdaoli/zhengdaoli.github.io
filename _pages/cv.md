@@ -38,8 +38,8 @@ Teaching
   
 Co-Author CV
 ======
-* [yezi](http://zhengdaoli.github.io/files/ye_cv.pdf)
+* [yezi](http://zhengdaoli.github.io/files/liuyezi/ye_cv.pdf)
 
-* [yezi_publications](http://zhengdaoli.github.io/files/publications/)
+* [yezi_publications](http://zhengdaoli.github.io/files/liuyezi/publications/)
 
 
