@@ -28,11 +28,11 @@ author_profile: false
 
 [6] [新媒体环境下国有企业舆情生态系统研究](http://zhengdaoli.github.io/files/liuyezi/publications/新媒体环境下国有企业舆情生态系统研究.pdf)
 
-[9] [基于大数据技术的社会化媒体传播机制探析](http://zhengdaoli.github.io/files/liuyezi/publications/基于大数据技术的社会化媒体传播机制探析.pdf)
+[7] [基于大数据技术的社会化媒体传播机制探析](http://zhengdaoli.github.io/files/liuyezi/publications/基于大数据技术的社会化媒体传播机制探析.pdf)
 
-[10] [基于社会网络分析的公益机构微博信息传播网络研究](http://zhengdaoli.github.io/files/liuyezi/publications/基于社会网络分析的公益机构微博信息传播网络研究.pdf)
+[8] [基于社会网络分析的公益机构微博信息传播网络研究](http://zhengdaoli.github.io/files/liuyezi/publications/基于社会网络分析的公益机构微博信息传播网络研究.pdf)
 
-[11] [重大突发公共卫生事件背景下在线教育的消费与传播重构](http://zhengdaoli.github.io/files/liuyezi/publications/重大突发公共卫生事件背景下在线教育的消费与传播重构.pdf)
+[9] [重大突发公共卫生事件背景下在线教育的消费与传播重构](http://zhengdaoli.github.io/files/liuyezi/publications/重大突发公共卫生事件背景下在线教育的消费与传播重构.pdf)
 
-[12] [政策工具选择的适配均衡与协同治理——基于社会组织政策文本的研究](http://zhengdaoli.github.io/files/liuyezi/publications/政策工具选择的适配均衡与协同治理——基于社会组织政策文本的研究.pdf)
+[10] [政策工具选择的适配均衡与协同治理——基于社会组织政策文本的研究](http://zhengdaoli.github.io/files/liuyezi/publications/政策工具选择的适配均衡与协同治理——基于社会组织政策文本的研究.pdf)
 
