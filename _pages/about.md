@@ -11,11 +11,10 @@ redirect_from:
 This website is developing now. I am moving my blogs from other sites to here, and building my CV.
 
 
-**My zhihu**: [道哥真的多](https://www.zhihu.com/people/bagba)
+**Tech Blogs**: [Bagba](https://blog.csdn.net/bagba) , [道哥真的多](https://www.zhihu.com/people/bagba)
 
-**My CSDN**: [Bagba](https://blog.csdn.net/bagba)
-
-**My WeChat_blog**: PaperShare
+**WeChat Feed for sharing machine learning papers**: PaperShare
+(search _papershare_ in wechat)
 
 
 
